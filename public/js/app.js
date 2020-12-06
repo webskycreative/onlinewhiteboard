@@ -1,0 +1,1 @@
+angular.module('whiteboard', ['AppConfig', 'MainCtrl', 'BoardCtrl', 'InviteCtrl']);
